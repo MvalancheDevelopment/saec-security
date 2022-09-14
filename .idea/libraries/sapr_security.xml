@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sapr-security">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/depends20_alpha.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sapr_fivem.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
