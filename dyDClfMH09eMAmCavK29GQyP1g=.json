@@ -35,13 +35,13 @@
       "id": 1,
       "name": "General",
       "soundName": "",
-      "type": "announce",
+      "type": "LEO",
       "coloredName": "[color=green]General[/color]",
       "talkEnforcement": true,
       "talkAround": false,
       "scannable": false,
       "encrypted": false,
-      "permission": 8
+      "permission": 20
     },
     {
       "id": 2,
