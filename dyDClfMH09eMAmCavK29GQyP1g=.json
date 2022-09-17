@@ -33,14 +33,14 @@
   "radioChannels": [
     {
       "id": 1,
-      "name": "General",
-      "soundName": "",
+      "name": "Default",
+      "soundName": "ten_three",
       "type": "LEO",
-      "coloredName": "[color=green]General[/color]",
+      "coloredName": "[color=green]Default[/color]",
       "talkEnforcement": true,
-      "talkAround": false,
+      "talkAround": true,
       "scannable": false,
-      "encrypted": false,
+      "encrypted": true,
       "permission": 20
     },
     {
@@ -52,7 +52,7 @@
       "talkEnforcement": true,
       "talkAround": false,
       "scannable": true,
-      "encrypted": false,
+      "encrypted": true,
       "permission": 1
     },
     {
@@ -64,7 +64,7 @@
       "talkEnforcement": true,
       "talkAround": false,
       "scannable": true,
-      "encrypted": false,
+      "encrypted": true,
       "permission": 1
     },
     {
