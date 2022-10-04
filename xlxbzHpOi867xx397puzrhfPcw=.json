@@ -216,7 +216,7 @@
       "serverGroupList": ["1505", "1501"]
     },
     "permExtra": {
-      "serverGroupList": ["1468", "1467", "1466", "1465", "1464", "1463", "1462"]
+      "serverGroupList": []
     },
     "permSit": {
       "serverGroupList": ["958"]
