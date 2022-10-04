@@ -33,7 +33,7 @@
   "radioChannels": [
     {
       "id": 1,
-      "name": "Default",
+      "name": "Patrol ops",
       "soundName": "ten_three",
       "type": "LEO",
       "coloredName": "[color=green]Default[/color]",
