@@ -38,7 +38,7 @@
       "type": "LEO",
       "coloredName": "[color=green]Statewide[/color]",
       "talkEnforcement": true,
-      "talkAround": true,
+      "talkAround": false,
       "scannable": false,
       "encrypted": true,
       "permission": 20
