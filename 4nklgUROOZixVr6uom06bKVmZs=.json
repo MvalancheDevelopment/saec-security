@@ -33,10 +33,10 @@
   "radioChannels": [
     {
       "id": 1,
-      "name": "Default",
+      "name": "Statewide",
       "soundName": "ten_three",
       "type": "LEO",
-      "coloredName": "[color=green]Default[/color]",
+      "coloredName": "[color=green]Statewide[/color]",
       "talkEnforcement": true,
       "talkAround": true,
       "scannable": false,
@@ -45,10 +45,10 @@
     },
     {
       "id": 2,
-      "name": "Statewide",
+      "name": "Other",
       "soundName": "",
       "type": "LEO",
-      "coloredName": "[color=red]Statewide[/color]",
+      "coloredName": "[color=red]Other[/color]",
       "talkEnforcement": true,
       "talkAround": false,
       "scannable": true,
