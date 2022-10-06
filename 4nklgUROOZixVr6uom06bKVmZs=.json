@@ -213,25 +213,25 @@
   },
   "permissions": {
     "permBasic": {
-      "serverGroupList": ["299", "12", "10"]
+      "serverGroupList": ["299", "12", "10", "297", "13", "16", "17", "277", "278"]
     },
     "permExtra": {
       "serverGroupList": []
     },
     "permSit": {
-      "serverGroupList": ["13"]
+      "serverGroupList": []
     },
     "permStaff": {
-      "serverGroupList": ["16"]
+      "serverGroupList": []
     },
     "permSenior": {
-      "serverGroupList": ["17"]
+      "serverGroupList": []
     },
     "permAdmin": {
-      "serverGroupList": ["277", "278"]
+      "serverGroupList": []
     },
     "permSuper": {
-      "serverGroupList": ["297"]
+      "serverGroupList": []
     }
   }
 }
