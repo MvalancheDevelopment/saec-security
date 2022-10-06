@@ -26,7 +26,7 @@
     "[QA]",
     "[EVAL]"
   ],
-  "civilianServerGroups": [ "299", "12", "10", "13", "16", "17", "277", "278", "297",  ],
+  "civilianServerGroups": [ "299", "12", "10", "13", "16", "17", "277", "278", "297"],
   "civChannels": [202],
   "radioSystems": [198],
   "rtoChannels": [199, 201],
@@ -228,10 +228,10 @@
       "serverGroupList": ["17"]
     },
     "permAdmin": {
-      "serverGroupList": ["277", "278", "297"]
+      "serverGroupList": ["277", "278"]
     },
     "permSuper": {
-      "serverGroupList": [""]
+      "serverGroupList": ["297"]
     }
   }
 }
