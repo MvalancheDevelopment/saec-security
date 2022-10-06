@@ -1,9 +1,8 @@
-
 {
     "pluginStatus": true,
     "isPaid": true,
     "communityName": "Sacramento County RP",
-    "betaCommunity": true,
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -190,7 +189,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["7"]
+            "serverGroupList": [""]
         },
         "permExtra": {
             "serverGroupList": [""]
