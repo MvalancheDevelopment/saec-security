@@ -190,7 +190,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""]
+            "serverGroupList": ["7"]
         },
         "permExtra": {
             "serverGroupList": [""]
