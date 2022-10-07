@@ -1,7 +1,7 @@
 {
     "pluginStatus": false,
     "isPaid": true,
-    "communityName": "Goldenstate Roleplay",
+    "communityName": "NorthBay RP",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["1548"],
-    "dispatchAdvancedServerGroups": [],
+    "dispatchServerGroups": ["288", "281"],
+    "dispatchAdvancedServerGroups": ["288", "281"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -26,10 +26,10 @@
         "[QA]",
         "[EVAL]"
     ],
-    "civilianServerGroups": [""],
-    "civChannels": [0],
-    "radioSystems": [1171],
-    "rtoChannels": [1183],
+    "civilianServerGroups": ["286", "281"],
+    "civChannels": [61, 62],
+    "radioSystems": [56, 65],
+    "rtoChannels": [59, 336, 64, 68, 337, 70, 71, 73],
     "radioChannels": [
         {
             "id": 1,
@@ -93,25 +93,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""]
+            "serverGroupList": ["291", "290"]
         },
         "permExtra": {
-            "serverGroupList": [""]
+            "serverGroupList": []
         },
         "permSit": {
-            "serverGroupList": ["1552"]
+            "serverGroupList": ["292"]
         },
         "permStaff": {
-            "serverGroupList": ["1553"]
+            "serverGroupList": ["293"]
         },
         "permSenior": {
-            "serverGroupList": ["1554"]
+            "serverGroupList": ["294"]
         },
         "permAdmin": {
-            "serverGroupList": ["1556", "1555"]
+            "serverGroupList": ["296", "296"]
         },
         "permSuper": {
-            "serverGroupList": ["1558"]
+            "serverGroupList": ["298", "297"]
         }
     }
 }
