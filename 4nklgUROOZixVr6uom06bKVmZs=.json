@@ -1,7 +1,7 @@
 {
   "pluginStatus": true,
   "isPaid": true,
-  "communityName": " Roleplay",
+  "communityName": "",
   "betaCommunity": true,
   "features": {
     "inGameInterface": true,
@@ -9,9 +9,9 @@
     "emergencyHotline": true
   },
   "talkAroundRange": 1500,
-  "betaServerGroups": ["1501", "1505", "1506", "1507", "1508", "1509", "1510", "1511", "1512", "1513", "1288"],
-  "dispatchServerGroups": [ "1513", "1512", "1498", "1288"],
-  "dispatchAdvancedServerGroups": [ "1513", "1512", "1498", "1288"],
+  "betaServerGroups": [],
+  "dispatchServerGroups": ["255", "253", "251", "250", "249", "247", "246", "245", "244", "243", "240"],
+  "dispatchAdvancedServerGroups": [ "255", "253", "251", "250", "249", "247", "246", "245", "244", "243", "240" ],
   "dispatchNameTags": [
     "(P)",
     "(S)",
@@ -26,29 +26,29 @@
     "[QA]",
     "[EVAL]"
   ],
-  "civilianServerGroups": [ "1501", "1505", "1506", "1507", "1508", "1509", "1510", "1511", "1512", "1513" ],
-  "civChannels": [1802, 1803],
-  "radioSystems": [1790, 1798, 1805, 1814],
-  "rtoChannels": [1794, 1795, 1796, 1797, 1800, 1801, 1792, 1793, 1791, 1809, 1810, 1811],
+  "civilianServerGroups": [ "299", "12", "10", "13", "16", "17", "277", "278", "297"],
+  "civChannels": [202],
+  "radioSystems": [198, 479],
+  "rtoChannels": [199, 201, 200],
   "radioChannels": [
     {
       "id": 1,
-      "name": "Default",
+      "name": "Statewide",
       "soundName": "ten_three",
       "type": "LEO",
-      "coloredName": "[color=green]Default[/color]",
+      "coloredName": "[color=green]Statewide[/color]",
       "talkEnforcement": true,
-      "talkAround": true,
+      "talkAround": false,
       "scannable": false,
       "encrypted": true,
       "permission": 20
     },
     {
       "id": 2,
-      "name": "Statewide",
+      "name": "Other",
       "soundName": "",
       "type": "LEO",
-      "coloredName": "[color=red]Statewide[/color]",
+      "coloredName": "[color=red]Other[/color]",
       "talkEnforcement": true,
       "talkAround": false,
       "scannable": true,
@@ -213,25 +213,25 @@
   },
   "permissions": {
     "permBasic": {
-      "serverGroupList": ["1505", "1501"]
+      "serverGroupList": ["299", "12", "10", "297", "13", "16", "17", "277", "278"]
     },
     "permExtra": {
-      "serverGroupList": ["1468", "1467", "1466", "1465", "1464", "1463", "1462"]
+      "serverGroupList": []
     },
     "permSit": {
-      "serverGroupList": ["1506"]
+      "serverGroupList": []
     },
     "permStaff": {
-      "serverGroupList": ["1507"]
+      "serverGroupList": []
     },
     "permSenior": {
-      "serverGroupList": ["1508"]
+      "serverGroupList": []
     },
     "permAdmin": {
-      "serverGroupList": ["1510", "1509", "1513"]
+      "serverGroupList": []
     },
     "permSuper": {
-      "serverGroupList": ["1288"]
+      "serverGroupList": []
     }
   }
 }
