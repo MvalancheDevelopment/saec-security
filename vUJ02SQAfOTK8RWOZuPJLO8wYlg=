@@ -9,9 +9,9 @@
         "emergencyHotline": true
     },
     "talkAroundRange": 1500,
-    "betaServerGroups": [""],
-    "dispatchServerGroups": ["10"],
-    "dispatchAdvancedServerGroups": [],
+    "betaServerGroups": ["4", "5", "7", "8", "12", "13", "14", "9", "11", "6"],
+    "dispatchServerGroups": ["4", "5", "7", "8", "12", "13", "14", "9", "11", "6"],
+    "dispatchAdvancedServerGroups": ["4", "5", "7", "8", "12", "13", "14", "9", "11", "6"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
